@@ -1,5 +1,5 @@
 {% set name = "napari-imc" %}
-{% set version = "0.6.3" %}
+{% set version = "0.6.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-imc-{{ version }}.tar.gz
-  sha256: c5046c0cc955c6210a3c87e7eed8ab63e7ac92ebdeb30fd81069eee182991548
+  sha256: 94d7dadf92bf5af6914ad9abdfd21637bf1a0b0e290fa2400f40274ee2f36419
 
 build:
   noarch: python
