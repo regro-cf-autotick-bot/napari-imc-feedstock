@@ -41,7 +41,7 @@ about:
   home: https://github.com/BodenmillerGroup/napari-imc
   summary: Imaging Mass Cytometry (IMC) file type support for napari
   license: MIT
-  license_file: LICENSE.md
+  license_file: LICENSE
 
 extra:
   recipe-maintainers:
